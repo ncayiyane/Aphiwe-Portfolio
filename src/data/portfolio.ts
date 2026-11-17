@@ -13,8 +13,8 @@ export const profile = {
     {
       institution: 'Cape Peninsula University of Technology (CPUT)',
       degree: 'Postgraduate Diploma in Information and Communication Technology',
-      dates: '2025 – Present',
-      status: 'In Progress',
+      dates: '2025 – 2026',
+      status: 'Completed',
       focus: 'AI, Data Science & Software Engineering',
       description: 'Advanced postgraduate study focused on artificial intelligence, data science, software engineering, databases, information systems, computational methods, and research.',
       keyAreas: ['Data Science', 'Artificial Intelligence', 'Computational Mathematics', 'Database Management', 'Information Systems Theories', 'Software Engineering', 'Research Methods', 'Capstone Project'],
